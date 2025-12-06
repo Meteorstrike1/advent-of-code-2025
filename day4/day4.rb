@@ -1,4 +1,4 @@
-# Not used matrix before but used someone use it on one of the grid puzzles last year and wanted to give it a go (did copy how they formed their structure)
+# Not used matrix before but seen someone use it on one of the grid puzzles last year and wanted to give it a go (did copy how they formed their structure)
 # Part 1 spent some time trying things out, but found it fairly straightforward
 # Part 2 made into methods and looped it (used a while true before rubocop told me off for not being Ruby enough)
 require 'matrix'
